@@ -1,0 +1,22 @@
+{
+  "name": "express-esimerkki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvt23kmo-esimerkit/express-esimerkki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvt23kmo-esimerkit/express-esimerkki/issues"
+  },
+  "homepage": "https://github.com/tvt23kmo-esimerkit/express-esimerkki#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
